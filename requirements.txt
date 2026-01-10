@@ -1,0 +1,5 @@
+opencv-contrib-python
+pandas
+pillow
+numpy
+tkinter
