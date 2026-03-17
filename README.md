@@ -1,6 +1,6 @@
 # Face Recognition Based Attendance System
 
-A modern, robust, and efficient automated attendance management system leveraging Local Binary Patterns Histograms (LBPH) for facial recognition. Built with Python, OpenCV, and Tkinter, this system provides a seamless experience for student registration and real-time attendance tracking.
+A robust and efficient automated attendance management system leveraging Local Binary Patterns Histograms (LBPH) for facial recognition. Built with Python, OpenCV, and Tkinter, this system provides a seamless experience for student registration and real-time attendance tracking.
 
 ## 🌟 Features
 
